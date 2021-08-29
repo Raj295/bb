@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'bike'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b934869bd11f4aa5b40ff6694041d888 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_479583589060489fb53d5434b3aa3a1d }}
